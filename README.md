@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rikk Bera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student of AI/ML from India,continuously learning and applying cutting-edge techniques to drive innovation and solve complex problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikk-bera&label=Profile%20views&color=0e75b6&style=flat" alt="rikk-bera" /> </p>
 
